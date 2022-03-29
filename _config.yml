@@ -1,9 +1,11 @@
-title: Kekejinga/s野路纯子
-author: 本人
+title: Your awesome title
+author:
   name: GitHub User
-  email: 318448983@qq.com
+  email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write something awesome .
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -20,7 +22,7 @@ minima:
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    #instagram: https://www.instagram.com/kekejinga/
+    # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
