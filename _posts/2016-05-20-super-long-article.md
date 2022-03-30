@@ -1,11 +1,34 @@
 ---
 layout: post
-title: "Some articles are just so long they deserve a really long title to see if things will break well"
+title: "论文摘录
+<论艺术电脑游戏的若干方面>
+On a Number of Aspects of Artistic Computer Games
+Tilman Baumgärtel
+"
 categories: misc
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+“Tom Betts 是一名程序员，他认为游戏和艺术是可以互换的。我对什么构成什么的问题不感兴趣，而只是对谁在使用电子游戏技术制作画廊级艺术感兴趣。Betts 是这些先驱之一，他的实验和态度以他们的顽皮和不做作给我留下了深刻的印象。他显然首先是一名游戏玩家，而不仅仅是一名寻找“当代”东西以按照自己的形象重塑的艺术学校毕业生。贝茨的作品，例如Quake III remix QQQ巧妙地玩弄了这些东西的边界，包括游戏何为以及它们如何给我们留下深刻印象。（Betts’ work, such as the Quake III remix QQQ, have neatly toyed with the fringes of what games are for and how they impress us. ）”
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+“然而，与此同时，他表示他并不是要“诋毁[计算机艺术]在艺术机构中承担其关键使命的原创性、真实性或专业知识的意识形态……如果有...... ‹ 电脑游戏的意识形态 › 可以通过挪用来解构，那么错误地认为游戏是由主体拥有的也许是人文主义傲慢的本质。”（该句引用自Claus Pias的论文Appropriation Art & Games. Spiele der Verschwendung und der Langeweile，）
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+（我：这里所指的“游戏主体”意义不明，个人认为是作者意欲批判那些肆意mod游戏原作的媒体艺术家们的这一行为，并引申为人性傲慢的本质）
+
+
+“弗洛里安·克莱默（Florian Cramer）也接受了这一论点，但强调，与其历史上的前辈相比，今天的软件艺术“不再是实验室构造和概念纯化的范式，而是自从 PC 和 Internet 中错误缠身的代码传播以来，导致崩溃、不兼容和病毒的原因：一种偶然性而非严格性的象征。 ‘缺陷范式’也在计算机游戏的艺术修改中发挥了作用，尽管有趣的是，它比互联网和软件艺术中的缺陷范式小得多。首先，破坏——或者我们应该说创造性的修改？——是那些特别专注于使用游戏的真实图形质量作为“视觉原材料”的作品的重点，例如，在 Arcangel Constantini 的《Atari Noise》或 Jodi 的《JET SET WILLY Variations ©1984》。”。。。。（Jodi为在巴塞尔、柏林和纽约举办的巡回展览而创作的«Jet Set Willy © 1984»是 Sinclair Spectrum 游戏的异化版本，它是 1980 年代初首批负担得起的家用电脑之一）
+“这意味着将游戏控制台的一些元素相互交叉，从而不再显示“正确”的图像，而是扭曲图像元素的混乱混乱。例如，网球比赛变成了一排绿色和蓝色的线条，需要认真努力才能识别任何模式。康斯坦尼在控制台底盘上添加了一排按钮，可以通过这些按钮不断修改图像。这种对视觉原材料的解构不仅仅是长期的现代异化传统的一部分，” 
+
+（我：错误，偶然，离场，非在线机制，这些出现于游戏开始及离线后的不和谐音符往往是艺术家围绕游戏艺术展开激情抢攻的重点领域，部分重在探讨，即点到为止，大多以“异化”处理为结局，而深入下去也不见得有更多意义，作者吐槽的“这种对视觉原材料的解构不仅仅是长期的现代异化传统的一部分”，可以感受到从杜尚开始的后现代荒诞，渐渐演变成现代艺术传统艺能。但是部分作品对原作的mod可以看作是融合当代符号的图像解构，例如某些图像以文字代替按照图像轮廓呈矩阵排列，似乎可以看出部分meta游戏的早期视觉源起。）
+
+
+
+“《雅达利噪音》指的是最重要的媒体艺术作品之一：白南准的《视频合成器》（1969/1992），但技术含量较低。 虽然当时白南准不得不请技术员 Shuya Abe 来开发一种可以实时处理运动图像的机器，但《Atari Noise》反映了一种媒体文化，在这种文化中，所需的硬件可以作为废弃的电子部件使用。 机器生成的永久新图像通过创建抽象扭曲来强调这些“游戏屏幕”的特殊属性，并清楚地表明根本没有其他媒介可以产生这样的图像。”
+（我：《Atari Noise》是早期故障艺术的典型代表之一，这为也后期即如今的生成艺术作出了铺垫，虽然不明白艺术家们为什么总揪着故障艺术不放，但这些不谐和音大概是艺术最普遍的特质。）
+
+
+“然而，当 Jodi 以视频的形式展示预先制定的版本时，他们使用自己的作品——就像《Machinima》电影制作人所做的那样——作为软件来制作自己的电影并为他们的作品提供另一个概念方向。 与其解构程序的内容，不如将其重新指定为生成动画的工具。”
+
+
+然而，虽然乔迪展示了作为视频的预演版本，但他们使用他们的视频作品--就像 "Machinima "电影制作人所做的那样--把游戏作为软件，以制作他们自己的电影，并赋予他们的作品另一个概念性方向。与其说是解构程序的 "内容"，不如说是将其重新指定为生成动画的工具，这才是最重要的。
+
+（我：如今的游戏引擎譬如unity 、unreal早已是数字艺术家们必不可少的作品生产软件，也许这是软件工具的异化，原文强调的“与其解构程序的内容，不如将其重新指定为生成动画的工具。”，好家伙，从解构内容到解构工具，艺术家无时无刻不在解构。）
