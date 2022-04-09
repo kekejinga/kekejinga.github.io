@@ -8,7 +8,9 @@ author:
 meta: "Springfield"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+游戏和故事之间的关系在游戏迷、设计师和学者中仍然是一个有分歧的问题。例如，在最近的一次游戏研究学术会议上，自称是Ludologists（游戏学派）的人和Narratologists（叙事学派）之间有可能爆发流血冲突，前者希望看到焦点转移到游戏的机制上，后者则对研究游戏和其他讲故事的媒体感兴趣。
+
+“在这篇短文中，我希望在游戏学派和叙事学派之间提供一个中间立场，一个尊重这种新兴媒体的特殊性的立场——将游戏与其说是故事，不如说是具有叙事可能性的空间。”
 
 ## Some great heading (h2)
 
