@@ -1,3 +1,4 @@
+---
 layout: post
 title: "游戏论文｜空间素养：阅读（和书写）游戏空间"
 categories: junk
@@ -22,7 +23,13 @@ Celia.pearce@lcc.gatech.edu
 
 【1】， 这与适用于地理知识的 "空间素养 "和GIS（地理信息系统）学科的 "空间知识"（Longley and Singleton 2006）不可混淆。
 
-![图1：《终极》系列的第一款游戏（Origin 1985）在平面图中描述了可航行的空间，而结构、生物和人则以立面图显示。](https://tva1.sinaimg.cn/large/e6c9d24ely1h1dx6kkb2qj20v20la44h.jpg)
+![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
+u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+
+![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
+u=702257389,1274025419&fm=27&gp=0.jpg)
+
+![图1：](https://tva1.sinaimg.cn/large/e6c9d24ely1h1dx6kkb2qj20v20la44h.jpg)
 
 ![图2：《夺宝奇兵》和《亚特兰蒂斯的命运》（LucasArts 1992）使用定点透视来表现三维空间，尽管导航实际上是侧滚动的。通过 "指向和点击 "的惯例，在场景中的物体上进行多选操作，这成为冒险游戏类型的同义词。(图片：Moby Games.) 
 ](https://tva1.sinaimg.cn/large/e6c9d24ely1h1dx67k5aqj20uy0j4adx.jpg)
